@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="mona_lisa_year">(c. 1503–19)</string>
+    <string name="self_portrait">Self-portrait</string>
+    <string name="self_portrait_year">(c. 1490/1515–16)</string>
+    <string name="last_supper">Last Supper</string>
+    <string name="last_supper_year">(c. 1495–98)</string>
+    <string name="vitruvian_man">Vitruvian Man</string>
+    <string name="vitruvian_man_year">(c. 1490)</string>
+</resources>
